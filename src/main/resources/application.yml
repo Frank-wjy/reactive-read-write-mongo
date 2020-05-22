@@ -1,0 +1,13 @@
+spring:
+  autoconfigure:
+    exclude: org.springframework.boot.autoconfigure.mongo.MongoReactiveAutoConfiguration
+
+mongodb:
+  reader:
+    host: localhost
+    port: 27017
+    database: reader
+  writer:
+    host: localhost
+    port: 27017
+    database: writer

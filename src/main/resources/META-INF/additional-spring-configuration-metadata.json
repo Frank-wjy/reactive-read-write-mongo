@@ -1,0 +1,33 @@
+{
+  "properties": [
+    {
+      "name": "mongodb.reader.host",
+      "type": "java.lang.String",
+      "description": "Description for mongodb.reader.host."
+    },
+    {
+      "name": "mongodb.reader.port",
+      "type": "java.lang.String",
+      "description": "Description for mongodb.reader.port."
+    },
+    {
+      "name": "mongodb.reader.database",
+      "type": "java.lang.String",
+      "description": "Description for mongodb.reader.database."
+    },
+    {
+      "name": "mongodb.writer.host",
+      "type": "java.lang.String",
+      "description": "Description for mongodb.writer.host."
+    },
+    {
+      "name": "mongodb.writer.port",
+      "type": "java.lang.String",
+      "description": "Description for mongodb.writer.port."
+    },
+    {
+      "name": "mongodb.writer.database",
+      "type": "java.lang.String",
+      "description": "Description for mongodb.writer.database."
+    }
+  ] }
